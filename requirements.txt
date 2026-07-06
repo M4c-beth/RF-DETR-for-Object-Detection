@@ -1,0 +1,10 @@
+rfdetr[train,metrics]
+roboflow
+supervision>=0.24.0
+pycocotools
+torch
+torchvision
+matplotlib
+pandas
+numpy
+Pillow
